@@ -10,68 +10,68 @@
 	  "id": 2,
 	  "titulo":"Saia rodada cor telha",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=7QKkv6s7&id=BD603FC67BDDD2FCF42985BD938CCB4D009B1EA4&thid=OIP.7QKkv6s7bo2KBqqt6juPhwHaLH&mediaurl=https%3a%2f%2fmiroa.com.br%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fimage%2f1800x2700%2f85e4522595efc69f496374d01ef2bf13%2fd%2fs%2fdsc_6978_13903v04_1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ed02a4bfab3b6e8d8a06aaadea3b8f87%3frik%3dpB6bAE3LjJO9hQ%26pid%3dImgRaw%26r%3d0&exph=2700&expw=1800&q=Saias+Midi&simid=608053961013089308&FORM=IRPRST&ck=B2DD6B630AACC1DDED8ADB3B754924BC&selectedIndex=38&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$ 80,00",
-	  "aspectRation":0.9
+	  "valor":"R$ 80,00",
+	  "aspectRatio":0.9
   },
 
   {
 	  "id": 3,
 	  "titulo":"Saia mid laranja",
 	  "src": "https://www.bing.com/images/search?view=detailV2&ccid=vEF%2bwxRU&id=05C1435E8924746D564448A1152E8FEA58B25103&thid=OIP.vEF-wxRU_C2muu8fFR9EFwHaLH&mediaurl=https%3a%2f%2faquamar.vteximg.com.br%2farquivos%2fids%2f418824-1000-1500%2f05050469_0008_1-SAIA-MIDI-BOTOES.jpg%3fv%3d637073535692000000&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bc417ec31454fc2da6baef1f151f4417%3frik%3dA1GyWOqPLhWhSA%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1000&q=Saias+Midi&simid=608035673036708425&FORM=IRPRST&ck=9DD3AA91E59028200765BDE9D7156FCC&selectedIndex=52&ajaxhist=0&ajaxserp=0",
-	  "Valor": "R$80,00",
-	  "aspectRation":0.9
+	  "valor": "R$80,00",
+	  "aspectRatio":0.9
   },
 	
   {
 	  "id": 4,
 	  "titulo":"Saia mid azul",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=%2f4S3Iz3s&id=5273C7231B735440D050AB06C2C0659B593A5D30&thid=OIP._4S3Iz3s8oUuS24a_TbvyAHaLH&mediaurl=https%3a%2f%2fdamyller.vteximg.com.br%2farquivos%2fids%2f489713-1900-2850%2fSaia-Midi-Jeans-com-Abotoamento-Frente--.jpg%3fv%3d636924858357600000&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ff84b7233decf2852e4b6e1afd36efc8%3frik%3dMF06WZtlwMIGqw%26pid%3dImgRaw%26r%3d0&exph=2850&expw=1900&q=Saias+Midi&simid=608014125185456561&FORM=IRPRST&ck=079A213583CBC78EB4BB164D9EBAD375&selectedIndex=32&ajaxhist=0&ajaxserp=0",
-	  "Valor": "R$70,00",
-	  "aspectRation":0.9
+	  "valor": "R$70,00",
+	  "aspectRatio":0.9
   },
 	
   {
 	  "id": 5,
 	  "titulo":"Saia preta courino",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=CxQZMmYs&id=34D8BE21F1353269C598870128E79AE03BE57489&thid=OIP.CxQZMmYs0uxqkwRohrNmMQHaLH&mediaurl=https%3a%2f%2fdamyller.vteximg.com.br%2farquivos%2fids%2f456157-1900-2850%2fSaia-Midi-Resinada-Frente--.jpg%3fv%3d636922224768530000&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0b141932662cd2ec6a93046886b36631%3frik%3diXTlO%252bCa5ygBhw%26pid%3dImgRaw%26r%3d0&exph=2850&expw=1900&q=Saias+Midi&simid=608008906806603465&FORM=IRPRST&ck=1B4E81D8EA98D905489E79800FA07AAD&selectedIndex=31&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$80,00",
-	  "aspectRation":0.9
+	  "valor":"R$80,00",
+	  "aspectRatio":0.9
   },
 	
   {
 	  "id": 6,
 	  "titulo":"Saia mid vermelha",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=%2brKEQBK9&id=192F168D1A53D34B4F58B138E9AFCEC4E3EDA3E1&thid=OIP.-rKEQBK9g8J4rfE_9JT74wHaJ4&mediaurl=https%3a%2f%2fpaconcept.com.br%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fimage%2f85e4522595efc69f496374d01ef2bf13%2fs%2fa%2fsa070141-28_2_.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fab2844012bd83c278adf13ff494fbe3%3frik%3d4aPt48TOr%252bk4sQ%26pid%3dImgRaw%26r%3d0&exph=2400&expw=1800&q=Saias+Midi&simid=608046260137065789&FORM=IRPRST&ck=A46D23DD6ECA4DBF55B72016038E82B3&selectedIndex=51&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$90,00",
-	  "aspectRation":0.9
+	  "valor":"R$90,00",
+	  "aspectRatio":0.9
   },
   {
 	  "id":7,
 	  "titulo":"Saia jeans azul",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=l8fGXeD0&id=F8680DB86A40C311B1DA7EDDF932299441D1978F&thid=OIP.l8fGXeD0s5LAol1XkpKZawHaLV&mediaurl=https%3a%2f%2fimages.tcdn.com.br%2fimg%2fimg_prod%2f765388%2fsaia_midi_jeans_barra_e_recortes_desfiados_dyork_jeans_105_3_20200601134511.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.97c7c65de0f4b392c0a25d579292996b%3frik%3dj5fRQZQpMvndfg%26pid%3dImgRaw%26r%3d0&exph=1500&expw=980&q=Saias+Midi&simid=608018394387469330&FORM=IRPRST&ck=22D8358815251882227F5059024416CC&selectedIndex=57&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$100,00",
-	  "aspectRation":0.9
+	  "valor":"R$100,00",
+	  "aspectRatio":0.9
   },
   {
 	  "id":8,
 	  "titulo":"Saia lápis mid preta",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=MWZxQvB%2b&id=5CC4EAEA61FB0DF4C4FE49CCC7C7A7DCCBCEA729&thid=OIP.MWZxQvB-xR28xncvFzvUsgHaLH&mediaurl=https%3a%2f%2fdamyller.vteximg.com.br%2farquivos%2fids%2f595120-1900-2850%2fSaia-Lapis-Midi-Costas--.jpg%3fv%3d637474468824100000&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.31667142f07ec51dbcc6772f173bd4b2%3frik%3dKafOy9ynx8fMSQ%26pid%3dImgRaw%26r%3d0&exph=2850&expw=1900&q=Saias+Midi&simid=608023797463646584&FORM=IRPRST&ck=C926AA482099618611B6AB230564BB9C&selectedIndex=60&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$90,00",
-	  "aspectRation":0.9
+	  "valor":"R$90,00",
+	  "aspectRatio":0.9
   },
   {
 	  "id":9,
 	  "titulo":"Saia mmid viscose listrado",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=%2f9wBNMiy&id=A71FFFED5155AA9497ABC33D5AA72BA699796BCB&thid=OIP._9wBNMiy2s1_AwRochSZRwHaLH&mediaurl=https%3a%2f%2fwww.rery.com.br%2fmedia%2fcatalog%2fproduct%2fcache%2f1%2fimage%2f85e4522595efc69f496374d01ef2bf13%2fr%2fr%2frry_0668_04040193_preto.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ffdc0134c8b2dacd7f03046872149947%3frik%3dy2t5maYrp1o9ww%26pid%3dImgRaw%26r%3d0&exph=2700&expw=1800&q=Saias+Midi&simid=608000978295404703&FORM=IRPRST&ck=B6DA7CA8FE0B81E644317580552A0855&selectedIndex=64&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$100,00",
-	  "aspectRation":0.9
+	  "valor":"R$100,00",
+	  "aspectRatio":0.9
   },
   {
 	  "id":10,
 	  "titulo":"Saia mid plissada preta",
 	  "src":"https://www.bing.com/images/search?view=detailV2&ccid=EbDIfxS6&id=0C7E95BBAF60AA62F95054743C7E48C91FF96458&thid=OIP.EbDIfxS6NtqlMfc2N_GVKwHaLu&mediaurl=https%3a%2f%2fhttp2.mlstatic.com%2fsaia-midi-plissada-D_NQ_NP_643150-MLB26306507170_112017-F.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.11b0c87f14ba36daa531f73637f1952b%3frik%3dWGT5H8lIfjx0VA%26pid%3dImgRaw%26r%3d0&exph=960&expw=606&q=Saias+Midi&simid=608020421616496057&FORM=IRPRST&ck=ABF551613F126814FC135827F4D9FB7F&selectedIndex=68&ajaxhist=0&ajaxserp=0",
-	  "Valor":"R$60,00",
-	  "aspectRation":0.9
+	  "valor":"R$60,00",
+	  "aspectRatio":0.9
   }
 ]
 
