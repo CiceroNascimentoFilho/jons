@@ -1,6 +1,10 @@
 [
  {
+    "id":1,
     "titulo":"Saia verde rodada",
-    "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB3rbRzHiozojbgU6gGl4PdliibJoCOj1TVg&usqp=CAU"
+    "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB3rbRzHiozojbgU6gGl4PdliibJoCOj1TVg&usqp=CAU",
+    	"valor":"R$ 70,00",
+	    "aspectRatio":0.9
   }
 ]
+
